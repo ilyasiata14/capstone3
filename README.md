@@ -9,7 +9,6 @@ Sistem bike-sharing semakin populer di kota-kota besar, tetapi salah satu tantan
 - **Solusi:** Model **Machine Learning** yang dapat memprediksi jumlah peminjaman sepeda berdasarkan faktor eksternal.
 
 ## 🗂 Dataset
-- **Sumber:** [Capital Bikeshare Data](http://capitalbikeshare.com/system-data)
 - **Fitur Utama:**
   - **Datetime:** `dteday`, `hr`, `season`
   - **Weather:** `temp`, `atemp`, `hum`, `weathersit`
