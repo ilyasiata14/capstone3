@@ -1,5 +1,3 @@
-# Membuat file README.md dengan format Markdown
-
 # 🚴‍♂️ Capstone 3: Bike Sharing Demand Prediction
 
 ## 📌 Project Overview
